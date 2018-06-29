@@ -1,5 +1,6 @@
 # firstapp
-
+一个很小的在线翻译网站
+vue2.0练手项目
 > translate
 
 ## Build Setup
