@@ -1,7 +1,7 @@
 # firstapp
 一个很小的在线翻译网站
 vue2.0练手项目,调用在线翻译接口，一共两个页面，输入页面和输出页面
-> translate
+预览地址：https://yinzhuo19970516.github.io/translate/
 
 ## Build Setup
 
